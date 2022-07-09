@@ -1,5 +1,5 @@
 # FoodOrderApplication
-A food order simulator application was developed using Java.
+A food order simulator application was developed using Java with JavaFX GUI and NetBean IDE 8.2
 
 This application consists of 2 types of users: (Owner and Customer).
 The owner's username and password are: "admin". Owner can control the food list and the customer's information, where he can choose to add or remove dishes and the customer's login info.
