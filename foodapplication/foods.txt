@@ -1,0 +1,3 @@
+FoodName: pork Price: 15.0
+FoodName: rise Price: 10.0
+FoodName: noodle Price: 12.0
